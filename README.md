@@ -6,7 +6,7 @@ i mostly develop for windows because of my hardware compatibility, but i general
 most of my projects are private. 
 
 # Currently working on
-### glorywin - undetected external scripting engine for Counter-strike 2
+### angel.codes - undetected external scripting engine for Counter-strike 2
 
 # category 1 for x type projects
 
